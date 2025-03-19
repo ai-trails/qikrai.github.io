@@ -1,7 +1,8 @@
 baseURL: https://qikr.ai/
 languageCode: en-us
 title: QikrAI
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: [PaperMod]
 
 enableInlineShortcodes: true
